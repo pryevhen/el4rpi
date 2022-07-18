@@ -1,2 +1,1 @@
-# el4rpi
-Raspberry pi та основи електроніки
+# Raspberry pi та основи електроніки
